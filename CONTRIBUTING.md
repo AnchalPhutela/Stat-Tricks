@@ -2,7 +2,7 @@
 
 * Master file is added in the repository
 
-* Refer the master file and develop your own logic for digital twin note taker
+* Refer the master file and develop your own logic for the tasks given in Stat-Tricks
 
 * Take branch from the master file
 
